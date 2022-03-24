@@ -1,4 +1,4 @@
-# Live Site Link: (React Food Bank)[https://rococo-sunflower-760ff2.netlify.app/]
+# Live Site Link: [React Food Bank](https://rococo-sunflower-760ff2.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
